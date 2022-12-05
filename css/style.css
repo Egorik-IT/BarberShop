@@ -964,7 +964,7 @@ body{
         font-size: 12px;
     }
     .stock__super__armchair {
-        font-size: 7px;
+        font-size: 8px;
         max-width: 118px;
         margin: 8px 0px 0px 0px;
     }
@@ -1112,13 +1112,13 @@ body{
         height: 100px;
     }
     .super__armchair{
-        padding: 24px 0px 0px 38px;
+        padding: 20px 0px 0px 30px;
     }
     .super__armchair h1{
         font-size: 9px;
     }
     .stock__super__armchair {
-        font-size: 6px;
+        font-size: 7px;
         max-width: 90px;
         margin: 6px 0px 0px 0px;
     }
