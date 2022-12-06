@@ -453,6 +453,12 @@ body{
     margin: 25px 0px 0px 0px;
     font-size: 14px;
 }
+.products__footer li{
+    transition: 0.4s;
+}
+.products__footer li:hover{
+    color: #000000;
+}
 .product__items{
     color: #828282;
 }
